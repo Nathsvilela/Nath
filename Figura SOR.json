@@ -1,0 +1,490 @@
+{"name": "Periodontitis", "children": [
+    {"name": "PD", "children": [
+        {"name": "PD in the selected teeth", "children": [
+            {"name": "Final", "children": [
+                {"nome": "Mean", "children": [
+                    {"name": "21 days", "size": 3938}
+                  ]
+                }
+              ]
+            },
+            {"name": "Change from baseline", "children": [
+                {"nome": "Mean", "children": [
+                    {"name": "3 months", "size": 3812}
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {"name": "PD in all teeth", "children": [
+            {"name": "Final", "children": [
+                {"nome": "Mean", "children": [
+                    {"name": "3 months", "size": 17010},
+                    {"name": "6 months", "size": 5842}
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Change from baseline",
+              "children": [
+                {
+                  "nome": "Mean",
+                  "children": [
+                    {
+                      "name": "7 days",
+                      "size": 1983
+                    },
+                    {
+                      "name": "1 month",
+                      "size": 2047
+                    },
+                    {
+                      "name": "2 months",
+                      "size": 1375
+                    },
+                    {
+                      "name": "24 months",
+                      "size": 8746
+                    },
+                    {
+                      "name": "Not defined",
+                      "size": 2202
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Not defined",
+              "children": [
+                {
+                  "nome": "Mean",
+                  "children": [
+                    {
+                      "name": "Not defined",
+                      "size": 1382
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Not defined",
+          "children": [
+            {
+              "name": "Change from baseline",
+              "children": [
+                {
+                  "name": "Percentage",
+                  "children": [
+                    {
+                      "name": "6 months",
+                      "size": 721
+                    }
+                  ]
+                },
+                {
+                  "name": "Mean",
+                  "children": [
+                    {
+                      "name": "Not defined",
+                      "size": 4294
+                    },
+                    {
+                      "name": "63 days",
+                      "size": 9800
+                    },
+                    {
+                      "name": "3 months",
+                      "size": 1314
+                    },
+                    {
+                      "name": "3 and 6 months",
+                      "size": 2220
+                    },
+                    {
+                      "name": "Not defined",
+                      "size": 1759
+                    }
+                  ]
+                },
+                {
+                  "name": "Not defined",
+                  "children": [
+                    {
+                      "name": "Not defined",
+                      "size": 2165
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Not defined",
+              "children": [
+                {
+                  "name": "Mean",
+                  "children": [
+                    {
+                      "name": "2 months",
+                      "size": 586
+                    },
+                    {
+                      "name": "2 and 6 months",
+                      "size": 3331
+                    },
+                    {
+                      "name": "Not defined",
+                      "size": 772
+                    }
+                  ]
+                },
+                {
+                  "name": "Not defined",
+                  "children": [
+                    {
+                      "name": "3 months",
+                      "size": 3322
+                    },
+                    {
+                      "name": "Not defined",
+                      "size": 8833
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Sites with PPD ≥5mm",
+          "children": [
+            {
+              "name": "Final",
+              "children": [
+                {
+                  "nome": "Mean",
+                  "children": [
+                    {
+                      "name": "Not defined",
+                      "size": 1732
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Change from baseline",
+              "children": [
+                {
+                  "nome": "Mean",
+                  "children": [
+                    {
+                      "name": "Not defined",
+                      "size": 3623
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Sites with PPD ≥5mm",
+          "children": [
+            {
+              "name": "Final",
+              "children": [
+                {
+                  "nome": "Percentage",
+                  "children": [
+                    {
+                      "name": "12 months",
+                      "size": 10066
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CAL",
+      "children": [
+        {
+          "name": "CAL ≥ 1.3 mm",
+          "children": [
+            {
+              "name": "final",
+              "children": [
+                {
+                  "name": "median",
+                  "children": [
+                    {
+                      "name": "27.5 months",
+                      "size": 4116
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "CAL in all teeth",
+          "children": [
+            {
+              "name": "change from  baseline",
+              "children": [
+                {
+                  "name": "Mean",
+                  "children": [
+                    {
+                      "name": "6 months",
+                      "size": 1082
+                    },
+                    {
+                      "name": "12 months",
+                      "size": 1336
+                    },
+                    {
+                      "name": "1 month",
+                      "size": 319
+                    },
+                    {
+                      "name": "Not defined",
+                      "size": 10498
+                    }
+                  ]
+                },
+                {
+                  "name": "Not defined",
+                  "children": [
+                    {
+                      "name": "Not defined",
+                      "size": 2822
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "final",
+              "children": [
+                {
+                  "name": "Mean",
+                  "children": [
+                    {
+                      "name": "3 months",
+                      "size": 9983
+                    },
+                    {
+                      "name": "Not defined",
+                      "size": 2213
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Not defined",
+              "children": [
+                {
+                  "name": "Mean",
+                  "children": [
+                    {
+                      "name": "3 months",
+                      "size": 1681
+                    },
+                    {
+                      "name": "Not defined",
+                      "size": 1616
+                    }
+                  ]
+                },
+                {
+                  "name": "Not defined",
+                  "children": [
+                    {
+                      "name": "12 months",
+                      "size": 1027
+                    },
+                    {
+                      "name": "Not defined",
+                      "size": 3891
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "CAL in sites with an initial PPD ≥ 5 mm and a CAL  ≥ 5 mm",
+          "children": [
+            {
+              "name": "change from baseline",
+              "children": [
+                {
+                  "name": "Mean",
+                  "children": [
+                    {
+                      "name": "6 months",
+                      "size": 891
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "CAL in sites with initial PD ≥7mm",
+          "children": [
+            {
+              "name": "change from baseline",
+              "children": [
+                {
+                  "name": "Mean",
+                  "children": [
+                    {
+                      "name": "3 months",
+                      "size": 2105
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "CAL in the selected sites",
+          "children": [
+            {
+              "name": "change from baseline",
+              "children": [
+                {
+                  "name": "Mean",
+                  "children": [
+                    {
+                      "name": "3 months",
+                      "size": 8258
+                    },
+                    {
+                      "name": "Not defined",
+                      "size": 10001
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Not defined",
+              "children": [
+                {
+                  "name": "Mean",
+                  "children": [
+                    {
+                      "name": "Not defined",
+                      "size": 8217
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Not defined",
+          "children": [
+            {
+              "name": "change from baseline",
+              "children": [
+                {
+                  "name": "Mean",
+                  "children": [
+                    {
+                      "name": "1 month",
+                      "size": 1302
+                    },
+                    {
+                      "name": "3 months",
+                      "size": 24593
+                    },
+                    {
+                      "name": "3 and 6 months",
+                      "size": 652
+                    },
+                    {
+                      "name": "12 months",
+                      "size": 636
+                    },
+                    {
+                      "name": "24 months",
+                      "size": 6703
+                    },
+                    {
+                      "name": "Not defined",
+                      "size": 2138
+                    }
+                  ]
+                },
+                {
+                  "name": "Not defined",
+                  "children": [
+                    {
+                      "name": "Not defined",
+                      "size": 3824
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "final",
+              "children": [
+                {
+                  "name": "Mean",
+                  "children": [
+                    {
+                      "name": "6 months",
+                      "size": 1353
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Not defined",
+              "children": [
+                {
+                  "name": "Mean",
+                  "children": [
+                    {
+                      "name": "2 and 6 months",
+                      "size": 4665
+                    },
+                    {
+                      "name": "3 months",
+                      "size": 2649
+                    },
+                    {
+                      "name": "Not defined",
+                      "size": 2832
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
