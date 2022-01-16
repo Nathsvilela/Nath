@@ -1,6 +1,6 @@
-{"name": "Periodontitis", "children": [
+{"name": "PERIODONTITIS", "children": [
     {"name": "PD", "children": [
-        {"name": "PD in the selected teeth", "children": [
+        {"name": "In selected teeth", "children": [
             {"name": "Final", "children": [
                 {"nome": "Mean", "children": [
                     {"name": "21 days", "size": 3938}
@@ -17,7 +17,7 @@
             }
           ]
         },
-        {"name": "PD in all teeth", "children": [
+        {"name": "In all teeth", "children": [
             {"name": "Final", "children": [
                 {"nome": "Mean", "children": [
                     {"name": "3 months", "size": 17010},
@@ -237,7 +237,7 @@
           ]
         },
         {
-          "name": "CAL in all teeth",
+          "name": "In all teeth",
           "children": [
             {
               "name": "change from  baseline",
@@ -326,7 +326,7 @@
           ]
         },
         {
-          "name": "CAL in sites with an initial PPD ≥ 5 mm and a CAL  ≥ 5 mm",
+          "name": "CAL and initial PD ≥ 5mm",
           "children": [
             {
               "name": "change from baseline",
@@ -345,7 +345,7 @@
           ]
         },
         {
-          "name": "CAL in sites with initial PD ≥7mm",
+          "name": "CAL in sites with PD ≥7mm",
           "children": [
             {
               "name": "change from baseline",
@@ -364,7 +364,7 @@
           ]
         },
         {
-          "name": "CAL in the selected sites",
+          "name": "In selected sites",
           "children": [
             {
               "name": "change from baseline",
